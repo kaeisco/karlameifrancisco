@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> ICT E-Portfolio </title>
+</head>
+<body style="background-color:#f9f8f6;">
+
+<h1 style="font-family:Arial;">Feedback . . .</h1>
+<form>
+<p style="font-family:Arial;"><b>Full Name (Surname, First Name M.I)</b></p>
+<input type="text" id="fullname" name="fullname"><br>
+<p style="font-family:Arial;"><b>Section</b></p>
+<input type="radio"> id="faith" name="section" value="FAITH"
+<label for="faith">FAITH</label><br>
+<input type="radio" id="fairness" name="section" value="FAIRNESS">
+<label for="fairness">FAIRNESS</label><br>
+<input type="radio" id="family" name="section" value="FAMILY">
+<label for="family">FAMILY</label>
+<input type="radio" id="fidelity" name="section" value="FIDELITY">
+<label for="fidelity">FIDELITY</label>
+</form>
+
+</body>
+</html>

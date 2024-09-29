@@ -1,0 +1,57 @@
+<html>
+<head>
+<title> ICT E-Portfolio </title>
+</head>
+<body style="background-color:#f9f8f6;">
+
+<table align="right" border="0" cellspacing="10" cellpadding="10">
+<tr>
+<td><b><a href="home.html" target="_self" style="color:#38252d;font-family:arial;">Home</a></b></td>
+<td><b><a href="about.html" target="_self" style="color:#38252d;font-family:arial;">About Me</b></a></td>
+<td><b><a href="content.html" target="_self" style="color:#38252d;font-family:arial;">Content</b></a></td>
+<td><b><a href="reflection.html" target="_self" style="color:#38252d;font-family:arial;">Reflection</b></a></td>
+<td><b><a href="feedback.html" target="_self" style="color:#38252d;font-family:arial;">Feedback</b></a></td>
+<td><b><a href="mailto:karlameidrfrancisco@gmail.com" target="_self" style="color:#38252d;font-family:arial;">Contact Me</b></a></td>
+</tr>	
+</table>
+
+<p style="color:red;">
+*All lesson codes are already incorporated into this website.
+</p>
+
+<table style="width:100%;font-family:arial;" border="2" bordercolor="#38252d" align="center" cellspacing="5" cellpadding="9">
+<tr>
+<th bgcolor="#ebbed6"> 1 </th>
+<th bgcolor="#ebbed6"> 2 </th>
+<th bgcolor="#ebbed6"> 3 </th>
+</tr>
+<tr>
+<td align="center"><img src="C:\Users\X\Downloads\OP1.jpg" alt="output1" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\OP2.jpg" alt="output2" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\OP3.jpg" alt="output3" width="400" height="250">
+</tr>
+<tr>
+<td align="center"><img src="C:\Users\X\Downloads\OP4.jpg" alt="output4" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\OP5.jpg" alt="output5" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\OP6.jpg" alt="output6" width="400" height="250">
+</tr>
+<tr>
+<td align="center"><img src="C:\Users\X\Downloads\OP7.jpg" alt="output7" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\OP8.jpg" alt="output8" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\OP9.jpg" alt="output9" width="140" height="250">
+</tr>
+<tr>
+<td align="center"><img src="C:\Users\X\Downloads\CODE1.jpg" alt="code1" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\CODE2.jpg" alt="code2" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\CODE3.jpg" alt="code3" width="140" height="250">
+</tr>
+<tr>
+<td align="center"><img src="C:\Users\X\Downloads\CODE4.jpg" alt="code4" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\CODE5.jpg" alt="code5" width="400" height="250">
+<td align="center"><img src="C:\Users\X\Downloads\CODE6.jpg" alt="code6" width="140" height="250">
+</tr>
+</table>
+
+
+</body>
+</html>

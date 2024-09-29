@@ -1,0 +1,54 @@
+<html>
+<head>
+<title> ICT E-Portfolio </title>
+<style type="text/css" id="operaUserStyle"></style></head>
+<body style="background-color:#f9f8f6;">
+
+<table align="right" border="0" cellspacing="10" cellpadding="10">
+<tr>
+<td><b><a href="home.html" target="_self" style="color:#38252d;font-family:arial;">Home</a></b></td>
+<td><b><a href="about.html" target="_self" style="color:#38252d;font-family:arial;">About Me</a></b></td>
+<td><b><a href="outputs.html" target="_self" style="color:#38252d;font-family:arial;">Outputs</a></b></td>
+<td><b><a href="reflection.html" target="_self" style="color:#38252d;font-family:arial;">Reflection</a></b></td>
+<td><b><a href="feedback.html" target="_self" style="color:#38252d;font-family:arial;">Feedback</a></b></td>
+<td><b><a href="mailto:karlameidrfrancisco@gmail.com" target="_self" style="color:#38252d;font-family:arial;">Contact Me</a></b></td>
+</tr>	
+</table>
+
+<h1 style="font-family:arial;color:#38252d;">
+<b>
+- MAPEH Music Video - Group 4
+</b>
+</h1>
+<video controls="controls" width="500" height="350" autoplay="">
+<source src="C:\Users\X\Downloads\MAPEHMV.mp4" type="video/mp4">
+</video>
+<p style="font-family:arial;color:#38252d;">
+For our MAPEH lesson about community health, we were tasked to create a music video about the topic that we had discussed. We had a great time recording scenes with my groupmates, and we got to bond and unite together to make this music video.
+</p>
+
+<br>
+
+<h1 style="font-family:arial;color:#38252d;">
+<b>
+- Handwashing Activity
+</b>
+</h1>
+<img src="C:\Users\X\Downloads\handwashing.jpg" alt="handwashing" width="400" height="500">
+<p style="font-family:arial;color:#38252d;">
+As usual, we had our handwashing activity for research. Not only does this teach us proper hygiene, but it also teaches us to do things together as classmates.
+</p>
+
+<br>
+
+<h1 style="font-family:arial;color:#38252d;">
+<b>
+- Buwan ng Wika Celebration
+</b>
+</h1>
+<img src="C:\Users\X\Downloads\buwanngwika.jpg" alt="buwan ng wika" width="600" height="400">
+<p style="font-family:arial;color:#38252d;">
+To celebrate our national language, we dedicate the whole month of August to Buwan ng Wika. For this year's celebration, we wore national costumes to celebrate being a Filipino.
+</p>
+
+</body></html>
